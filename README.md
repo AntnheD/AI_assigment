@@ -1,5 +1,6 @@
  Name Antnhe Debebe
   iD ATE/3036/14
+#
 The degree of a node represents the number of direct connections it has. Analyzing the degrees of nodes provides insights into the centrality of cities:
 
 
