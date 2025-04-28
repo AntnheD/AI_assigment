@@ -8,7 +8,6 @@ The degree of a node represents the number of direct connections it has. Analyzi
 #  Degree Analysis
 The degree of a node represents the number of direct connections it has. Analyzing the degrees of nodes provides insights into the centrality of cities:
 
-![AI Tree](./doc/image copy.png)
 # Degree Analysis
 The degree of a node represents the number of direct connections it has. Analyzing the degrees of nodes provides insights into the centrality of cities:
 
@@ -19,9 +18,4 @@ Adama: Degree = 2 (connected to Addis Ababa, Dire Dawa).
 Low-Degree Nodes:
 Lalibela: Degree = 1 (connected only to Dessie).
 
-![AI Tree](./doc/image copy 6.png)
 
-![AI Tree](./doc/image copy 5.png)
-![AI Tree](./doc/image copy 4.png)
-![AI Tree](./doc/image copy 3.png)
-![AI Tree](.//doc/image copy 2.png)
